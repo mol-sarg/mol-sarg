@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Molly!
 
-<!--
-**mol-sarg/mol-sarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌆 Urban Data Science & Analytics Student
 
-Here are some ideas to get you started:
+’m a student in Urban Data Science and Analytics with a strong interest in using data to explore and address the complex social and spatial dynamics that shape urban life. My academic background, a BSc in Sociology with Quantitative Research Methods, began my journey into coding, starting with R. Grounded in sociological thinking, I’m particularly motivated to apply data driven approaches that support more equitable and sustainable urban policy. I have lots of experience working with large, messy datasets, and I’m especially drawn to geospatial and temporal analysis as tools for informing meaningful change.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working on: My dissertation: [Investigating Fuel Poverty and Food Insecurity in Leeds]
+- 💻 Tools I use: Python, R, QGIS
+- 📬 Reach me: [sarg.mol2@gmail.com]
+
+🔗 [Check out my mini data science project here](https://github.com/mol-sarg/GEOG5302M-Mini-Data-Science-Project)
+
+---
+
+## ⚒️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat)
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/molly-sargent-241522212/))
