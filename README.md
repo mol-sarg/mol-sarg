@@ -4,7 +4,7 @@
 
 I’m a student in Urban Data Science and Analytics with a strong interest in using data to explore and address the complex social and spatial dynamics that shape urban life. My academic background, a BSc in Sociology with Quantitative Research Methods, began my journey into coding, starting with R. Grounded in sociological thinking, I’m particularly motivated to apply data driven approaches that support more equitable and sustainable urban policy. I have lots of experience working with large, messy datasets, and I’m especially drawn to geospatial and temporal analysis as tools for informing meaningful change.
 
-- 💼 Currently working on my dissertation: [Investigating Fuel Poverty and Food Insecurity in Leeds]
+- 💼 Currently working on my dissertation: Investigating Fuel Poverty and Food Insecurity in Leeds
 - 💻 Tools I use: Python, R, QGIS
 - 📬 Reach me: [sarg.mol2@gmail.com]
 
