@@ -6,7 +6,7 @@ I’m a student in Urban Data Science and Analytics with a strong interest in us
 
 - 💼 Currently working on my dissertation: Investigating Fuel Poverty and Food Insecurity in Leeds
 - 💻 Tools I use: Python, R, QGIS
-- 📬 Reach me: [(sarg.mol2@gmail.com)]
+- 📬 Reach me: sarg.mol2@gmail.com
 
 🔗 [Check out my mini data science project here](https://github.com/mol-sarg/GEOG5302M-Mini-Data-Science-Project)
 
