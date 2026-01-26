@@ -1,12 +1,12 @@
 # Hey, I'm Molly!
 
-### 🌆 Urban Data Science & Analytics Student
+🌆 I’m an Urban Data Scientist with an MSc in Urban Data Science & Analytics and a strong interest in using data to understand and address the social and spatial inequalities that shape everyday life in cities. I’m currently working as a Data Scientist at the Leeds Institute for Data Analytics (LIDA), where I focus on translating complex data into policy‑relevant, accessible insights.
 
-I’m a student in Urban Data Science and Analytics with a strong interest in using data to explore and address the complex social and spatial dynamics that shape urban life. My academic background, a BSc in Sociology with Quantitative Research Methods, began my journey into coding, starting with R. Grounded in sociological thinking, I’m particularly motivated to apply data driven approaches that support more equitable and sustainable urban policy. I have lots of experience working with large, messy datasets, and I’m especially drawn to geospatial and temporal analysis as tools for informing meaningful change.
+My background is in Sociology with Quantitative Research Methods (BSc), which grounded my technical work in social theory and equity-focused thinking. I enjoy working with large, messy datasets and I’m particularly drawn to geospatial analysis, and interactive data visualisation as tools for supporting fairer urban and food policy.
 
-- 💼 Currently working on my dissertation - Food for Thought: Mapping Spatial Gaps in Food Access across Leeds
-- 💻 Tools I use: Python, R, QGIS
-- 📬 Reach me: sarg.mol2@gmail.com
+- 💼 💼 **Current work:** Developing an interactive tool comparing the Index of Multiple Deprivation (IMD) and the Priority Places for Food Index (PPFI) to highlight hidden food access vulnerabilities across England
+- 💻 **Tools I use:** Python, R, QGIS, Tableau
+- 📬 R**each me:** sarg.mol2@gmail.com
 
 🔗 [Check out my mini data science project here](https://github.com/mol-sarg/GEOG5302M-Mini-Data-Science-Project)
 
