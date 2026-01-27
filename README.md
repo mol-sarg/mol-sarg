@@ -6,7 +6,7 @@ My background is in Sociology with Quantitative Research Methods (BSc), which gr
 
 - 💼 💼 **Current work:** Developing an interactive tool comparing the Index of Multiple Deprivation (IMD) and the Priority Places for Food Index (PPFI) to highlight hidden food access vulnerabilities across England
 - 💻 **Tools I use:** Python, R, QGIS, Tableau
-- 📬 R**each me:** sarg.mol2@gmail.com
+- 📬 **Reach me:** sarg.mol2@gmail.com
 
 🔗 [Check out my mini data science project here](https://github.com/mol-sarg/GEOG5302M-Mini-Data-Science-Project)
 
